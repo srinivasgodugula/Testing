@@ -1,0 +1,9 @@
+
+<suite name="Admin" parallel="false">
+  <test name="Sanity">
+    <classes>
+      <class name="selenium.Xml1"/>
+       <class name="selenium.Xml2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
